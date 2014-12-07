@@ -1,0 +1,11 @@
+﻿<Window x:Class="Softfluent.Articles.NVO.DNASpecializer.HMI.NewRandomPopulation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New random population" Height="100" Width="300">
+        <StackPanel>
+            <TextBlock Text="Population Size (minimum 10)" HorizontalAlignment="Center" />
+        <TextBox x:Name="ResponseTextBox" >100</TextBox>
+        <Button Content="OK" Click="OKButton_Click" />
+        </StackPanel>
+</Window>

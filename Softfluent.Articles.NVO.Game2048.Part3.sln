@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softfluent.Articles.NVO.Game2048", "Softfluent.Articles.NVO.Game2048\Softfluent.Articles.NVO.Game2048.csproj", "{BFAB823C-0A0D-4022-A14D-8E543C92A769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softfluent.Articles.NVO.Game2048.ConsoleApp", "Softfluent.Articles.NVO.Game2048.Console\Softfluent.Articles.NVO.Game2048.ConsoleApp.csproj", "{7947E2DB-7A58-45BD-B8F2-D67DD5398688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softfluent.Articles.NVO.Game2048.AI", "Softfluent.Articles.NVO.Game2048.AI\Softfluent.Articles.NVO.Game2048.AI.csproj", "{CED27A3C-6C3A-461C-AFD9-982CE8275D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softfluent.Articles.NVO.DNALab.HMI", "Softfluent.Articles.NVO.DNALab.HMI\Softfluent.Articles.NVO.DNALab.HMI.csproj", "{180D95B5-D2C2-4963-85F2-47B7BC254B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softfluent.Articles.NVO.DNASpecializer", "Softfluent.Articles.NVO.DNASpecializer\Softfluent.Articles.NVO.DNASpecializer.csproj", "{F7447CE3-C8F3-44FA-AD47-419CD2AD34BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softfluent.Articles.NVO.Game2048.Tests", "Softfluent.Articles.NVO.Game2048.Tests\Softfluent.Articles.NVO.Game2048.Tests.csproj", "{ACAB305D-D4EB-4D5B-9100-3997B4D74058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAB823C-0A0D-4022-A14D-8E543C92A769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAB823C-0A0D-4022-A14D-8E543C92A769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAB823C-0A0D-4022-A14D-8E543C92A769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAB823C-0A0D-4022-A14D-8E543C92A769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7947E2DB-7A58-45BD-B8F2-D67DD5398688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7947E2DB-7A58-45BD-B8F2-D67DD5398688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7947E2DB-7A58-45BD-B8F2-D67DD5398688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7947E2DB-7A58-45BD-B8F2-D67DD5398688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED27A3C-6C3A-461C-AFD9-982CE8275D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED27A3C-6C3A-461C-AFD9-982CE8275D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED27A3C-6C3A-461C-AFD9-982CE8275D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED27A3C-6C3A-461C-AFD9-982CE8275D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180D95B5-D2C2-4963-85F2-47B7BC254B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180D95B5-D2C2-4963-85F2-47B7BC254B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180D95B5-D2C2-4963-85F2-47B7BC254B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180D95B5-D2C2-4963-85F2-47B7BC254B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7447CE3-C8F3-44FA-AD47-419CD2AD34BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7447CE3-C8F3-44FA-AD47-419CD2AD34BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7447CE3-C8F3-44FA-AD47-419CD2AD34BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7447CE3-C8F3-44FA-AD47-419CD2AD34BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAB305D-D4EB-4D5B-9100-3997B4D74058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAB305D-D4EB-4D5B-9100-3997B4D74058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAB305D-D4EB-4D5B-9100-3997B4D74058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAB305D-D4EB-4D5B-9100-3997B4D74058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
